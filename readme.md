@@ -11,5 +11,4 @@ A clean, responsive, text-focused theme for [Ivy][1].
 Note that the header links are hardcoded in the theme's template file. You should edit the template file to add your own custom links.
 
 * All code has been placed in the public domain.
-
 * The bundled [Crimson Text][3] font is distributed under the SIL Open Font License.
