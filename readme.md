@@ -1,10 +1,10 @@
 # Outline
 
-[1]: https://github.com/dmulholl/ivy
+[1]: https://github.com/dmulholl/ark
 [2]: http://www.dmulholl.com/demos/outline/
 [3]: https://fonts.google.com/specimen/Crimson+Text
 
-A clean, responsive, text-focused theme for [Ivy][1].
+A clean, responsive, text-focused theme for [Ark][1].
 
 * [Demo][2]
 
